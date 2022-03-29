@@ -2,7 +2,7 @@
 
 
 ## How do I report a bug?
-You can report a bug by going to the issues page [here.](https://github.com/Uuvana-Studios/longvinter-windows-client/issues) Then click "New Issue" at the top right.
+You can report a bug by going to the issues page [here.](https://github.com/Uuvana-Studios/longvinter-linux-client/issues) Then click "New Issue" at the top right.
 
 ![image](https://user-images.githubusercontent.com/28383557/160373947-eca2cb42-030e-4ed9-b0fc-98eaf4094e15.png#gh-dark-mode-only)
 ![image](https://user-images.githubusercontent.com/28383557/160377215-f7020d35-fa5b-4f78-8c45-759ae2b5e680.png#gh-light-mode-only)
